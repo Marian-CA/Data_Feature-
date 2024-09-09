@@ -21,7 +21,7 @@ To run this script, you need to set up API keys for:
 
 Make sure to add these API keys to  the SECRETS tab in Colab
 
-**Note: You will also need to insert the NutritionIX API key and the ID in 'x-app-id' & 'x-app-key' under the get_calories function section for the code to run properly. (This information can be found in the Lytspace assignment submission description)**  
+**Note: You will also need to insert the NutritionIX API ID in 'x-app-id' under the get_calories function section for the code to run properly. (This information can be found in the Lytspace assignment submission description)**  
 
 ## Usage
 
